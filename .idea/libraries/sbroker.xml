@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbroker" type="mix">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/sbroker/ebin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/sbroker/src" />
+    </SOURCES>
+  </library>
+</component>

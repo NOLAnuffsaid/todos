@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sqlite_ecto2" type="mix">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/_build/dev/lib/sqlite_ecto2/ebin" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/deps/sqlite_ecto2/lib" />
+    </SOURCES>
+  </library>
+</component>
